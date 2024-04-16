@@ -1,1 +1,1 @@
-This project is deployed here. Please check it out on: https://keeper-thearunsinha.vercel.app/
+This project is deployed on Vercel. Please check it out on: https://keeper-thearunsinha.vercel.app/
